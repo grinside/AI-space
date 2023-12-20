@@ -19,7 +19,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>LiveKit Meet</title>
+        <title>GrinLive AI</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
